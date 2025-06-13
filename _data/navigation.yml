@@ -4,7 +4,7 @@ main:
   - title: "Resume outline"
     url: "#resume"
   - title: "Projects section"
-    url: '#projects"
+    url: "#projects"
   - title: "Lab Challenges section"
     url: "#lab"
   - title: "Contacts section"
