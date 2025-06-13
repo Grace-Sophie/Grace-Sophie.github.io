@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Grace Karanja"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Grace Wangari.jpg"
+  bio    : "Experienced Data Analyst with expertise in Python, R, Excel and Tableau. "
   links:
  #  - label: "Website"
  #    icon: "fas fa-fw fa-link"
@@ -71,7 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "LinkdIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/karanja-grace"
 
@@ -86,7 +86,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "LinkdIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/karanja-grace"
 
