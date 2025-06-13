@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-## <a id="home"></a>About
+## <a id="home"></a>
 Hi! I'm Grace!
 ---
 
