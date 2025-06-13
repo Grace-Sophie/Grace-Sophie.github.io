@@ -44,7 +44,7 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
 
 <div class="lab-grid">
 
-  <div class="lab-card">
+  <div class="lab-card" style="overflow: auto; height: 300px;">
     <h6>Configuring and testing Microsoft Purview Message Encryption</h6>
     <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
