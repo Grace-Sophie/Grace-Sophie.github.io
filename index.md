@@ -49,12 +49,12 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
     <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
 
-  <div class="lab-card">
+  <div class="lab-card" style="overflow: auto; height: 300px;">
     <h6>Managing DLP Policies and Reports</h6>
     <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
 
-  <div class="lab-card">
+  <div class="lab-card" style="overflow: auto; height: 300px;">
     <h6>Configuring and Implemeting retention policies</h6>
     <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
