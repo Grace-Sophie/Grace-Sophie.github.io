@@ -25,9 +25,24 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 
 ## <a id="lab"></a>Lab Projects
 Currently pursuing a certificate in Data Protection, I have worked on and gained experience in various real life simulations of data protection and security. Some of the lab exercises I have done include:
-| **Project 1** <br> Configuring and testing Microsoft Purview Message Encryption | **Project 2** <br> Managing DLP Policies and Reports | **Project 3** <br> Configuring and Implementing retention policies |
-|:--:|:--:|:--:|
-| <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="640" height="480" allow="autoplay"></iframe> | <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="640" height="480" allow="autoplay"></iframe> | <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview" width="640" height="480" allow="autoplay"></iframe> |
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+
+  <div style="flex: 1 1 30%; min-width: 280px;">
+    <h4>Configuring and testing Microsoft Purview Message Encryption</h4>
+    <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="640" height="480" allow="autoplay"></iframe>
+  </div>
+
+  <div style="flex: 1 1 30%; min-width: 280px;">
+    <h4>Managing DLP Policies and Reports</h4>
+    <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="640" height="480" allow="autoplay"></iframe>
+  </div>
+
+  <div style="flex: 1 1 30%; min-width: 280px;">
+    <h4>Configuring and Implemeting retention policies</h4>
+    <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview" width="640" height="480" allow="autoplay"></iframe>
+  </div>
+
+</div>
 
  ---
 
