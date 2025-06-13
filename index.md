@@ -5,3 +5,8 @@
 layout: single
 author_profile: true
 ---
+
+With over 2 years of experience in Data Analysis, I have worked on various projects involving cleaning, analysis and presentation of data. Some of the projects I worked on are:
+- **Twitter Sentiment Analysis**
+- **EDA mobile banking Kenya, R project**
+- **EDA in Banking, Python project**
