@@ -5,10 +5,9 @@
 layout: single
 author_profile: true
 ---
-<section id="home">
-## About
+## <a id="home"></a>About
 Hi! I'm Grace!
-</section>
+---
 
 <section id="resume">
 ## Resume Outline
