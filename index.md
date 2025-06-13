@@ -25,20 +25,37 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 
 ## <a id="lab"></a>Lab Projects
 Currently pursuing a certificate in Data Protection, I have worked on and gained experience in various real life simulations of data protection and security. Some of the lab exercises I have done include:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<style>
+  .lab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .lab-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 10px;
+    background: #fafafa;
+  }
+  .lab-card h4 {
+    margin-top: 0;
+  }
+</style>
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Configuring and testing Microsoft Purview Message Encryption</h4>
+<div class="lab-grid">
+
+  <div class="lab-card">
+    <h6>Configuring and testing Microsoft Purview Message Encryption</h6>
     <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Managing DLP Policies and Reports</h4>
+  <div class="lab-card">
+    <h6>Managing DLP Policies and Reports</h6>
     <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Configuring and Implemeting retention policies</h4>
+  <div class="lab-card">
+    <h6>Configuring and Implemeting retention policies</h6>
     <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
 
