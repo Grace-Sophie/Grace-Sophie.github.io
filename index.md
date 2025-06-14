@@ -90,7 +90,7 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 
   <div class="project-card">
     <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
-      <img src="/assets/img/motor vehicle.PNG" alt="Motor Vehicle EDA">
+      <img src="/assets/images/motor vehicle.PNG" alt="Motor Vehicle EDA">
     </a>
     <div>
       <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
