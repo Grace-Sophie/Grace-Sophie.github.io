@@ -72,7 +72,7 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
       <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
         Electric Vehicle EDA
       </a>
-      <p>Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.</p>
+      <p>Exploratory data analysis for identifying various trends and impact of Eectric Vehicles.</p>
     </div>
   </div>
 
@@ -84,7 +84,7 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
       <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank">
         Fake News Detection
       </a>
-      <p>Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+      <p>Use of Natural Language Processing and Machine Learning for Data classification.</p>
     </div>
   </div>
 
@@ -96,7 +96,7 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
       <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
         Motor Vehicle EDA
       </a>
-      <p>Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
+      <p>Project entailing Exploratory Data Analysis and Segmentation Analysis.</p>
     </div>
   </div>
 
