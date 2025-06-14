@@ -33,6 +33,8 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
   }
 
   .lab-card {
+    display: flex;
+    flex-direction: column;
     border: 1px solid #e0e0e0;
     border-radius: 8px;
     background: #fafafa;
@@ -41,6 +43,7 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
   }
 
   .lab-card iframe {
+    flex: 0 0 auto;
     width: 100%;
     height: 300px;
     border: none;
@@ -50,23 +53,24 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
     margin-top: 10px;
     font-weight: bold;
     text-align: center;
+    color: #333;
   }
 </style>
 
 <div class="lab-grid">
 
   <div class="lab-card">
-    <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview"></iframe>
+    <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" allow="autoplay"></iframe>
     <div class="lab-title">Configuring and testing Microsoft Purview Message Encryption</div>
   </div>
 
   <div class="lab-card">
-    <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="100%" height="300" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" allow="autoplay"></iframe>
     <div class="lab-title">Managing DLP Policies and Reports</div>
   </div>
 
   <div class="lab-card">
-    <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview"  width="100%" height="300" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview" allow="autoplay"></iframe>
     <div class="lab-title">Configuring and Implemeting retention policies</div>
   </div>
 
