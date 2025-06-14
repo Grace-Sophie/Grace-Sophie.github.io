@@ -167,12 +167,5 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
 
 ## <a id="contacts"></a>Contact
 Email me at gracesophie302@gmail.com
-links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/karanja-grace"
 
 ---
