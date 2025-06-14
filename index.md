@@ -26,7 +26,7 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
                         style="text-decoration: none;">
                         <div class="col-lg-4 col-md-6 mb-0 portfolio-item first" style="height: 350px;">
                             <div class="position-relative overflow-hidden mb-2" style="height: 100%;">
-                                <img class="img-fluid rounded w-100" src="img/portfolio-1.jpg" alt=""
+                                <img class="img-fluid rounded w-100" src="assets/images/fake news.PNG" alt=""
                                     style="height: 70%; object-fit: cover;">
             
                                 <span
