@@ -25,21 +25,49 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 
 ## <a id="lab"></a>Lab Projects
 Currently pursuing a certificate in Data Protection, I have worked on and gained experience in various real life simulations of data protection and security. Some of the lab exercises I have done include:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<style>
+  .lab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    **Configuring and testing Microsoft Purview Message Encryption**
-    <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="100%" height="300" allow="autoplay"></iframe>
+  .lab-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #fafafa;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+
+  .lab-card iframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+  }
+
+  .lab-title {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+  }
+</style>
+
+<div class="lab-grid">
+
+  <div class="lab-card">
+    <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview"></iframe>
+    <div class="lab-title">Configuring and testing Microsoft Purview Message Encryption</div>
   </div>
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Managing DLP Policies and Reports</h4>
+  <div class="lab-card">
     <iframe src="https://drive.google.com/file/d/1lfbD2J1WVB3PFDYJNbZwmtXdrfG0q8nz/preview" width="100%" height="300" allow="autoplay"></iframe>
+    <div class="lab-title">Managing DLP Policies and Reports</div>
   </div>
 
-  <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Configuring and Implemeting retention policies</h4>
+  <div class="lab-card">
     <iframe src="https://drive.google.com/file/d/1GOHTMr9dA7COA7eFfGkDYtf5wnb47e6b/preview"  width="100%" height="300" allow="autoplay"></iframe>
+    <div class="lab-title">Configuring and Implemeting retention policies</div>
   </div>
 
 </div>
