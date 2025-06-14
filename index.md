@@ -9,7 +9,7 @@ sidebar:
 classes: wide
 ---
 ## <a id="home"></a>About
-Hi! I'm Grace👋!A computer science graduate passionate about Data Analysis, Data Protection and Machine Learning.
+Hi👋!I'm Grace, a computer science graduate passionate about Data Analysis, Data Protection and Machine Learning.
 
 ---
 
