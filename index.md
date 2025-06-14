@@ -35,9 +35,9 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
   .lab-card {
     display: flex;
     flex-direction: column;
-    border: 1px solid #e0e0e0;
+    border: 1px solid #444;
     border-radius: 8px;
-    background: #fafafa;
+    background: #1e1e1e;
     padding: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
@@ -47,13 +47,14 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
     width: 100%;
     height: 300px;
     border: none;
+    background: #2a2a2a;
   }
 
   .lab-title {
     margin-top: 10px;
     font-weight: bold;
     text-align: center;
-    color: #333;
+    color: white;
   }
 </style>
 
