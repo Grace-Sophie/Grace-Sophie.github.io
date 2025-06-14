@@ -17,10 +17,9 @@ I am a dedicated and qualified professional with a strong foundation in data ana
 
 ## <a id="projects"></a>Projects
 With over 2 years of experience in Data Analysis, I have worked on various projects involving cleaning, analysis and presentation of data. Some of the projects I worked on are:
-- Twitter Sentiment Analysis
-[![Twitter Sentiment Analysis]("img/portfolio-1.jpg")](https://github.com/Grace-Sophie/twitter-sentiment-analysis)
+[![Electric Vehicle EDA]("electric vehicle.jpeg")](https://github.com/Grace-Sophie/Electric Vehicle EDA)
 
-**[Twitter Sentiment Analysis – EDA & Modeling](https://github.com/Grace-Sophie/twitter-sentiment-analysis)**  
+**[Electric Vehicle EDA](https://github.com/Grace-Sophie/Electric Vehicle EDA)**  
 Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.
 
 - EDA mobile banking Kenya, R project
