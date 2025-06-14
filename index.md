@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+sidebar:
+  nav: false
 ---
 ## <a id="home"></a>About
 Hi! I'm Grace👋!
@@ -58,9 +60,6 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
       <p style="color: #ccc; margin-top: 5px;">Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
     </div>
   </div>
-
-
-
 
 ---
 
