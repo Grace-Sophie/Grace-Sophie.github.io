@@ -9,12 +9,17 @@ sidebar:
 classes: wide
 ---
 ## <a id="home"></a>About
-Hi! I'm Grace👋!
+Hi! I'm Grace👋!A computer science graduate passionate about Data Analysis, Data Protection and Machine Learning.
 
 ---
 
 ## <a id="resume"></a>Resume Outline
 I am a dedicated and qualified professional with a strong foundation in data analysis, data visualization and data protection. I am proficient in using Python programming, Excel, SQL and R programming language for data transformation and analysis. Experienced and skilled in developing data driven strategies to optimize business processes and ensure data security. I am dedicated to consistently keeping upto date with the latest cyber trends and delivering high quality detailed results. I am also a team player and eager to learn and collaborate with other professionals in the field.
+My skills include:
+- Use of Python, R and SQL for analysis of Data.
+- Experienced in Tableau for data visualization and reporting.
+- Use of Microsoft 365 for Data Governance and compliance.
+- Computer Systems configuration.
 
 ---
 
