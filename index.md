@@ -21,46 +21,86 @@ I am a dedicated and qualified professional with a strong foundation in data ana
 ## <a id="projects"></a>Projects
 With over 2 years of experience in Data Analysis, I have worked on various projects involving cleaning, analysis and presentation of data. Some of the projects I worked on are:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<style>
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+  }
 
-  <!-- Project 1 -->
-  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+  .project-card {
+    flex: 1 1 300px;
+    background-color: #1a1a1a;
+    padding: 15px;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+
+  .project-card img {
+    width: 100%;
+    border-radius: 6px;
+    height: auto;
+  }
+
+  .project-card a {
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .project-card p {
+    color: #ccc;
+    margin-top: 5px;
+  }
+
+  @media (max-width: 768px) {
+    .projects-container {
+      flex-direction: column;
+    }
+  }
+</style>
+
+<div class="projects-container">
+
+  <div class="project-card">
     <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
-      <img src="/assets/images/electric vehicle.jpeg" alt="Electric Vehicle EDA" style="width: 100%; border-radius: 6px;">
+      <img src="/assets/images/electric vehicle.jpeg" alt="Electric Vehicle EDA">
     </a>
-    <div style="margin-top: 10px;">
-      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+    <div>
+      <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
         Electric Vehicle EDA
       </a>
-      <p style="color: #ccc; margin-top: 5px;">Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+      <p>Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.</p>
     </div>
   </div>
 
-   <!-- Project 2 -->
-  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+  <div class="project-card">
     <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank">
-      <img src="/assets/images/fake news.PNG" alt="Confusion Matrix" style="width: 100%; border-radius: 6px;">
+      <img src="/assets/images/fake news.PNG" alt="Fake News Detection">
     </a>
-    <div style="margin-top: 10px;">
-      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+    <div>
+      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank">
         Fake News Detection
       </a>
-      <p style="color: #ccc; margin-top: 5px;">Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+      <p>Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
     </div>
   </div>
 
-  <!-- Project 3 -->
-  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+  <div class="project-card">
     <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
-      <img src="/assets/images/motor vehicle.PNG" alt="Correlation Matrix" style="width: 100%; border-radius: 6px;">
+      <img src="/assets/img/motor vehicle.PNG" alt="Motor Vehicle EDA">
     </a>
-    <div style="margin-top: 10px;">
-      <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+    <div>
+      <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
         Motor Vehicle EDA
       </a>
-      <p style="color: #ccc; margin-top: 5px;">Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
+      <p>Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
     </div>
   </div>
+
+</div>
 
 ---
 
