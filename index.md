@@ -21,51 +21,45 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
   <!-- Project 1 -->
-  <div class="row portfolio-container">
-                    <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank"
-                        style="text-decoration: none;">
-                        <div class="col-lg-4 col-md-6 mb-0 portfolio-item first" style="height: 350px;">
-                            <div class="position-relative overflow-hidden mb-2" style="height: 100%;">
-                                <img class="img-fluid rounded w-100" src="assets/images/electric vehicle.jpeg" alt=""
-                                    style="height: 70%; object-fit: cover;">
-            
-                                <span
-                                    style="text-align: center; display: block; height: 10%; margin-top: 20px;">Electric-Vehicle-EDA</span>
-                            </div>
-                        </div>
-                    </a>
-                    <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank"
-                        style="text-decoration: none;">
-                        <div class="col-lg-4 col-md-6 mb-4 portfolio-item second" style="height: 350px;">
-                            <div class="position-relative overflow-hidden mb-2" style="height: 100%;">
-                                <img class="img-fluid rounded w-100" src="assets/images/fake news.PNG" alt=""
-                                    style="height: 70%; object-fit: cover;">
-                                
-                                <span
-                                    style="text-align: center; display: block; height: 30%; margin-top: 20px;">Fake-News-Detection</span>
-                            </div>
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
+      <img src="/assets/images/electric vehicle.jpeg" alt="Electric Vehicle EDA" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Electric Vehicle EDA
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+    </div>
+  </div>
 
-                        </div>
-                    </a>
-                    <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank"
-                        style="text-decoration: none;">
-                        <div class="col-lg-4 col-md-6 mb-4 portfolio-item secong" style="height: 350px;">
-                            <div class="position-relative overflow-hidden mb-2" style="height: 100%;">
-                                <img class="img-fluid rounded w-100" src="assets/images/motor vehicle" alt=""
-                                    style="height: 70%; object-fit: cover;">
-                                <!-- <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                                    <a href="img/portfolio-2.jpg" data-lightbox="portfolio">
-                                        <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                                    </a>
-                                </div> -->
-                                <span
-                                    style="text-align: center; display: block; height: 30%; margin-top: 20px;">Motor-vehicles-EDA</span>
-                            </div>
+   <!-- Project 2 -->
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank">
+      <img src="/assets/images/fake news.PNG" alt="Confusion Matrix" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Fake News Detection
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+    </div>
+  </div>
 
-                        </div>
-                    </a>
+  <!-- Project 3 -->
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
+      <img src="/assets/images/motor vehicle.PNG" alt="Correlation Matrix" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Motor Vehicle EDA
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
+    </div>
+  </div>
 
-                            </div>
+
 
 
 ---
