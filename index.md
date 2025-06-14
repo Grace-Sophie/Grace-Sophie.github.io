@@ -18,14 +18,49 @@ I am a dedicated and qualified professional with a strong foundation in data ana
 ## <a id="projects"></a>Projects
 With over 2 years of experience in Data Analysis, I have worked on various projects involving cleaning, analysis and presentation of data. Some of the projects I worked on are:
 
-[![Electric Vehicle EDA](/assets/images/electric vehicle.jpeg)](https://github.com/Grace-Sophie/Electric-Vehicle-EDA)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
-**[Electric Vehicle EDA](https://github.com/Grace-Sophie/Electric-Vehicle-EDA)**  
-Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.
+  <!-- Project 1 -->
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com//Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
+      <img src="/assets/images/electric vehicle.jpeg" alt="Electric Vehicle EDA" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Electric Vehicle EDA
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.</p>
+    </div>
+  </div>
 
-- EDA mobile banking Kenya, R project
-- EDA in Banking, Python project
-  
+  <!-- Project 2 -->
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank">
+      <img src="/assets/images/fake news.PNG" alt="Confusion Matrix" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Fake-News-Detection" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Fake News Detection
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Python pipeline for cleaning, transforming and validating data prior to analysis.</p>
+    </div>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
+    <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank">
+      <img src="/assets/images/motor vehicle.PNG" alt="Correlation Matrix" style="width: 100%; border-radius: 6px;">
+    </a>
+    <div style="margin-top: 10px;">
+      <a href="https://github.com/Grace-Sophie/Motor-vehicles-EDA" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
+        Motor Vehicle EDA
+      </a>
+      <p style="color: #ccc; margin-top: 5px;">Interactive Excel dashboard visualizing product sales KPIs across time and regions.</p>
+    </div>
+  </div>
+
+</div>
+
 ---
 
 ## <a id="lab"></a>Lab Projects
