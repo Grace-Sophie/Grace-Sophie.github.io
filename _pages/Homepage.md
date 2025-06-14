@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /homepage/
 title: "Home Page"
 ---
 
