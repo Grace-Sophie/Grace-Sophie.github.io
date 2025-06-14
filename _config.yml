@@ -75,6 +75,9 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/karanja-grace"
 
+header:
+  sticky: true
+
 footer:
   links:
  #  - label: "Website"
