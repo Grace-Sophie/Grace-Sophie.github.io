@@ -21,17 +21,19 @@ With over 2 years of experience in Data Analysis, I have worked on various proje
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
   <!-- Project 1 -->
-  <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
-    <a href="https://github.com//Grace-Sophie/Electric-Vehicle-EDA" target="_blank">
-      <img src="/assets/images/electric vehicle.jpeg" alt="Electric Vehicle EDA" style="width: 100%; border-radius: 6px;">
-    </a>
-    <div style="margin-top: 10px;">
-      <a href="https://github.com/Grace-Sophie/Electric-Vehicle-EDA" target="_blank" style="color: #fff; font-size: 1.1em; font-weight: bold;">
-        Electric Vehicle EDA
-      </a>
-      <p style="color: #ccc; margin-top: 5px;">Exploratory data analysis and machine learning model for analyzing Twitter sentiment using Python.</p>
-    </div>
-  </div>
+  <div class="row portfolio-container">
+                    <a href="https://github.com/Grace-Sophie/twitter-sentiment-analysis" target="_blank"
+                        style="text-decoration: none;">
+                        <div class="col-lg-4 col-md-6 mb-0 portfolio-item first" style="height: 350px;">
+                            <div class="position-relative overflow-hidden mb-2" style="height: 100%;">
+                                <img class="img-fluid rounded w-100" src="img/portfolio-1.jpg" alt=""
+                                    style="height: 70%; object-fit: cover;">
+            
+                                <span
+                                    style="text-align: center; display: block; height: 10%; margin-top: 20px;">Twitter-Sentiment-Analysis-EDA-Modeling</span>
+                            </div>
+                        </div>
+                    </a>
 
   <!-- Project 2 -->
   <div style="flex: 1 1 300px; background-color: #1a1a1a; padding: 15px; border-radius: 10px;">
