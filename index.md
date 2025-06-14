@@ -28,7 +28,7 @@ Currently pursuing a certificate in Data Protection, I have worked on and gained
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
   <div style="flex: 1 1 30%; min-width: 280px;">
-    <h4>Configuring and testing Microsoft Purview Message Encryption</h4>
+    **Configuring and testing Microsoft Purview Message Encryption**
     <iframe src="https://drive.google.com/file/d/1M8uP2iU587MzOuYcmrly1Uf8KC35-uGL/preview" width="100%" height="300" allow="autoplay"></iframe>
   </div>
 
