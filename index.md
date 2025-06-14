@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 sidebar:
   nav: false
+classes: wide
 ---
 ## <a id="home"></a>About
 Hi! I'm Grace👋!
